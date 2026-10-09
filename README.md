@@ -25,7 +25,9 @@
   欢迎访问<3274252493@qq.com>与我交流(*^_^*)
 - (很久远的计划)准备明年的电子设计大赛！
 
-   <img src="https://pic2.zhimg.com/v2-a0aa835127782b079a26b404374e0b33_1440w.jpg?source=172ae18b" width = "350" height = "200" alt="电赛赛徽" align=center />
+---
+资源库：
+> [提问的艺术](https://bbs.robomaster.com/article/810096?source=8 "导向RM社区")
 
-- 准备建模大赛和CMC大赛！  
+- 准备CMC大赛、英语四六级、电赛！  
 - 努力学习，发展自我！
